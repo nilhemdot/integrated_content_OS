@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@antv/infographic": "^0.2.3",
+    "@antv/infographic": "^0.2.20",
     "jsdom": "^27.4.0"
   }
 }
